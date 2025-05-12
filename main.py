@@ -1,3 +1,6 @@
+from mlpipe import MLWorkFlow
+
+
 def main():
     print("Hello from ml-pipeline!")
 
